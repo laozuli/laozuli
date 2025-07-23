@@ -1,6 +1,6 @@
 ### Hello Visitor!
 
-I'm Sophie and this is my personal github for projects I work on in my spare time. I decided to make a new account so that my personal stuff was not linked to all my work repos.
+I'm Sophie and this is my personal github for projects I work on in my spare time.
 [I have a site](http://laozuli.com) (which doesn't do much at the moment so watch this space)
 
 **About**
